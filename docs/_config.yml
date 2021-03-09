@@ -1,14 +1,14 @@
 baseurl: /
 collections:
   tooltips: {output: false}
-company_name: muellerzr # replace with your username
+company_name: Universidad Politécnica de Madrid # replace with your username
 default_badges: {colab: true}
 defaults:
 - scope: {path: '', type: pages}
   values: {comments: true, layout: page, search: true, sidebar: home_sidebar, topnav: topnav}
 - scope: {path: '', type: tooltips}
   values: {comments: true, layout: page, search: true, tooltip: true}
-description: Taking fastai to the next level # replace with your own description
+description: Material of the talk A walk with deep learning by Victor Rodriguez-Fernandez and Alejandro Martin, part of the Stardust-R TS-III  # replace with your own description
 exclude: [.idea/, .gitignore, vendor]
 feedback_disable: true
 github_editme_path: null
@@ -20,10 +20,10 @@ markdown: kramdown
 output: web
 plugins: [jekyll-remote-theme]
 remote_theme: fastai/nbdev-jekyll-theme
-repository: muellerzr/walk-with-deep-learning # replace with your own URL
+repository: stardust-r/walk-with-deep-learning # replace with your own URL
 sidebars: [home_sidebar]
 site_title: walkwithdeeplearning # this can stay
 topnav_title: walkwithdeeplearning # same with this
-twitter_username: muellerzr # replace with your own twitter username
-url: https://muellerzr.github.io/walk-with-deep-learning # replace with your own url
+twitter_username: vrodriguezf90 # replace with your own twitter username
+url: https://stardust-r.github.io/walk-with-deep-learning # replace with your own url
 use_math: true
