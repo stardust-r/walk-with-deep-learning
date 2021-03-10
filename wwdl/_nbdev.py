@@ -13,7 +13,7 @@ index = {"linear_function_dataset": "00_dl_101_pytorch_fastai.ipynb",
 modules = ["dl_101.py",
            "utils.py"]
 
-doc_url = "https://stardust-r.github.io/wwdl/"
+doc_url = "https://stardust-r.github.io/walk-with-deep-learning/"
 
 git_url = "https://github.com/stardust-r/wwdl/tree/main/"
 

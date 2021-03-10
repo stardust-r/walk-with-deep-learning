@@ -1,3 +1,4 @@
+wandb
 *.bak
 .gitattributes
 .last_checked
