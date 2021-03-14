@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: /walk-with-deep-learning/
 collections:
   tooltips: {output: false}
 company_name: Universidad Politécnica de Madrid # replace with your username

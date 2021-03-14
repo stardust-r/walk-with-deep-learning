@@ -13,8 +13,8 @@ def show_TensorFunction1D(x, y, y_hat=None, return_fig=False, **kwargs):
     r"""
         Displays the 1D function `y`(`x`), with optional predictions `y_hat`
     """
-    fig = plt.figure()
+    figure = plt.figure()
     ax = fig.add_subplot(111)
     ax.scatter(x, y, **kwargs)
     if y_hat is not None: ax.scatter(x, y_hat, **kwargs)
-    if return_fig: return fig
+    if return_fig: return figure
