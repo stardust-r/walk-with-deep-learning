@@ -4,7 +4,7 @@
 
 ## Slides
 
-You can find the slides of the talk in the file <<file_name>>
+You can find the slides of the talk in the file *A walk with deep learning.pdf*
 
 ## Tutorial notebooks
 
