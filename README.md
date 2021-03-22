@@ -10,3 +10,4 @@ You can find the slides of the talk in the file *A walk with deep learning.pdf*
 
 There are two tutorial notebooks in the folder `nbs`:
 - *Deep learning 101 with Pytorch & fastai*: This notebook is in the path `nbs/00_dl_101_pytorch_fastai.ipynb` 
+- *CNNs in the CIFAR10 dataset*: This notebook is in the path `nbs/01_Keras_CNN.ipynb`
